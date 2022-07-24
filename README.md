@@ -50,6 +50,7 @@ pip install -i https://pypi.tuna.tsinghua.edu.cn/simple -r requirements.txt
 
 ## 如何使用自己的曲谱？
 
-到https://www.midishow.com/搜索喜欢的曲目下载，并将midi文件放入名为`songs`的文件夹里，有些midi文件的播放速度需要自己调整（见下图）。
+https://www.midishow.com/
+搜索喜欢的曲目下载，并将midi文件放入名为`songs`的文件夹里，有些midi文件的播放速度需要自己调整（见下图）。
 
 ![曲速调整](./2.jpg)
